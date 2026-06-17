@@ -11,6 +11,7 @@ Building web applications that solve real problems.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -34,7 +35,7 @@ Building web applications that solve real problems.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mesonkhatiwada&theme=transparent&hide_border=true&ring=61DAFB&fire=61DAFB&currStreakLabel=333)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mesonkhatiwada&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
@@ -42,7 +43,7 @@ Building web applications that solve real problems.
 <summary>📈 Contribution Stats</summary>
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesonkhatiwada&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=333&bg_color=00000000)](https://github.com/mesonkhatiwada)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesonkhatiwada&show_icons=true&theme=dark&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&bg_color=000000)](https://github.com/mesonkhatiwada)
 
 </details>
 
@@ -50,7 +51,7 @@ Building web applications that solve real problems.
 <summary>💻 Most Used Languages</summary>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesonkhatiwada&layout=compact&theme=dark&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF)](https://github.com/mesonkhatiwada)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesonkhatiwada&layout=compact&theme=dark&text_color=FFFFFF&bg_color=000000&border_color=333333)](https://github.com/mesonkhatiwada)
 
 </details>
 
@@ -60,7 +61,20 @@ Building web applications that solve real problems.
 
 📱 Building responsive web applications  
 ⚡ Performance optimization and best practices  
-🔐 Authentication and secure API design
+🔐 Authentication and secure API design  
+🧠 Learning C++ — exploring low-level programming and memory management
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/Learning-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
+
+</div>
+
+> *Diving into C++ to strengthen fundamentals in systems programming, memory management, and performance-critical code.*
 
 ---
 
@@ -68,9 +82,8 @@ Building web applications that solve real problems.
 
 **Connect with me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meson-khaiwada)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mesonkhatiwada@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mesonkhatiwada&color=61DAFB&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meson-khaiwada)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:mesonkhatiwada@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=mesonkhatiwada&color=ffffff&style=flat-square&label=VIEWS)
 
 </div>
