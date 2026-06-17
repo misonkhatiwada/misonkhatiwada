@@ -1,6 +1,6 @@
 # Hi, I'm Mison Khatiwada 👋
-**Full-Stack Developer** | Nepal 🇳🇵  
-Building web applications that solve real problems.
+**Student & Aspiring Developer** | Nepal 🇳🇵  
+Learning every day, building one step at a time. 🚀
 
 ---
 
